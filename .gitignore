@@ -31,3 +31,4 @@ data/corpus_segmented.txt
 # Scratch and test files
 scratch/
 test_*.py
+

@@ -1,6 +1,10 @@
 # Myanmar Tokenizer Playground
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://myanmar-tokenizer-playground.streamlit.app/)
+
 Interactive exploration of Unicode normalization, syllable and word segmentation, and subword tokenizers for the Myanmar (Burmese) language.
+
+**Live Application:** [https://myanmar-tokenizer-playground.streamlit.app/](https://myanmar-tokenizer-playground.streamlit.app/)
 
 Developed by [Thein Kyaw Lwin](https://tklwin.github.io/) with the help of Google Antigravity.
 
@@ -151,3 +155,4 @@ This pipeline automatically:
 - **Developer**: [Thein Kyaw Lwin](https://tklwin.github.io/)
 - **Assisted by**: Google Antigravity
 - **License**: [MIT License](LICENSE)
+
