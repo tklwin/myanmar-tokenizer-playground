@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit local configurations
+.streamlit/
+
+# Temporary / intermediate generated training files
+data/corpus_cleaned.txt
+data/corpus_syllables.txt
+data/corpus_raw.txt
+data/corpus_continuous.txt
+data/corpus_segmented.txt
+
+# Scratch and test files
+scratch/
+test_*.py
