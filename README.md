@@ -146,7 +146,7 @@ This pipeline automatically:
 - Aung, T., Kyaw, E. K. K., Thu, Y. K., Myint Oo, T., & Supnithi, T. (2025). *Enhancing Burmese News Classification with Kolmogorov-Arnold Network Head Fine-tuning*. 20th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP).
 - Kudo, T. (2018). *Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates*. ACL 2018.
 - Kudo, T., & Richardson, J. (2018). *SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing*. EMNLP 2018.
-- `mmdt-tokenizer`: Myanmar Multi-Dictionary and Rule-Based Tokenizer.
+- [`mmdt-tokenizer`](https://pypi.org/project/mmdt-tokenizer/): Myanmar Multi-Dictionary and Rule-Based Tokenizer.
 
 ---
 
